@@ -1,0 +1,16 @@
+  body {
+            margin: 0;
+            height: 100vh; /* Full viewport height */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f0f0f0; /* Light gray background */
+            font-family: Arial, sans-serif; /* Font family */
+        }
+        h1 {
+            font-size: 25vh; /* Font size is 25% of the viewport height */
+            color: #ff6347; /* Tomato color */
+            text-align: center; /* Center the text */
+            margin: 0; /* Remove default margin */
+        }
+    
